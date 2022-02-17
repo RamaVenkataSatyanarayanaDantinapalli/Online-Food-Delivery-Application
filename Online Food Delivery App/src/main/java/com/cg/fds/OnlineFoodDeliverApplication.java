@@ -10,3 +10,4 @@ public class OnlineFoodDeliverApplication {
 		SpringApplication.run(OnlineFoodDeliverApplication.class, args);
 	}
 }
+
